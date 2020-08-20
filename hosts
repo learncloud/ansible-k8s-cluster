@@ -1,0 +1,5 @@
+master ansible_host=10.0.0.4 ansible_user=jjh
+ 
+[workers]
+worker1 ansible_host=10.0.0.5 ansible_user=jjh
+worker2 ansible_host=10.0.0.6 ansible_user=jjh
